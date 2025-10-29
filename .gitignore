@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+results/runs/*
+!.gitkeep
+notebooks/.ipynb_checkpoints/

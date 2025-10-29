@@ -1,0 +1,5 @@
+From the dialogue, extract the latest course deadline.
+Return exactly: Memory: <COURSE>.deadline = <YYYY-MM-DD> (updated)
+If none, return: Memory: UNRESOLVED
+Dialogue:
+<<<TURNS>>>

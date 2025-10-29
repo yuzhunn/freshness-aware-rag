@@ -1,0 +1,9 @@
+You will answer a short question using the given context.
+If retrieved passages conflict with the top-pinned Memory, follow the Memory.
+Answer with 1–5 words. If unknown, output "unknown".
+
+Question: <<<Q>>>
+Context:
+<<<CONTEXT>>>
+
+Answer:
